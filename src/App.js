@@ -250,7 +250,7 @@ const AniversarioBrena = () => {
           </div>
           <div className="image-container">
             <img
-              src="./images/Vegetti2.webp"
+              src="./images/vegetti2.webp"
               alt="Vegetti"
               className="image"
             />
