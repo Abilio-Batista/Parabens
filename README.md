@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Site de Aniversário da Brena 🎉
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um site especial feito em **React** para comemorar o aniversário da Brena.  
+O projeto contém várias seções personalizadas com mensagens, imagens e referências aos momentos marcantes, tudo pensado para tornar o dia dela ainda mais especial.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Tecnologias utilizadas
+- **React** - Biblioteca para construção de interfaces interativas  
+- **CSS** - Estilização do site, incluindo Flexbox e Grid  
+- **Canvas-Confetti** - Animação de confetes para deixar o site divertido (opcional)  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖥️ Como rodar localmente
+Para testar o site no seu computador:  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Abilio-Batista/aniversario-brena.git
 
-### `npm test`
+2. Acesse a pasta do projeto:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+cd aniversario-brena
 
-### `npm run build`
+3. Instale as dependências:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Rode o projeto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
 
-### `npm run eject`
+O site abrirá no navegador em: http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🚀 Deploy
+O site foi hospedado no Vercel e pode ser acessado pelo link:
+Link do site
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📸 Sobre o projeto
+Seções com mensagens personalizadas para a Brena
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Galeria de imagens com referências ao Vasco e momentos especiais
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Texto interativo e estilizado para dar destaque a cada parte do site
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💖 Feito com carinho por
+Abílio Batista
